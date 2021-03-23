@@ -1,7 +1,7 @@
 # pyHeart
 Measure heartrate using fingertip placed over webcam
 
-![alt text](https://github.com/pdadial/pyComm/blob/main/images/costas_loop.png)
+![alt text](https://github.com/pdadial/pyHeart/blob/main/images/Figure.png)
 
 
 ## Prerequisites
